@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  🟢 <b>Open to:</b> ML Engineer · AI/LLM Engineer · MLOps Engineer · Data Scientist — full-time, Bay Area or remote
+  ML Engineer · AI/LLM Engineer · MLOps Engineer · Data Scientist — full-time, Bay Area or remote
 </p>
 
 ---
