@@ -40,7 +40,7 @@
 | **[IgnisAI](https://github.com/fardaevm/Ignis-AI-WildFire)** | California wildfire risk modeling from satellite and weather data. | `scikit-learn` `SMOTE` `Geospatial` |
 
 <details>
-<summary><b>🧭 How MedCoverage works</b></summary>
+<summary><b> How MedCoverage works</b></summary>
 
 ```mermaid
 flowchart LR
