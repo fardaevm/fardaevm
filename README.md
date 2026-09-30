@@ -22,10 +22,10 @@
 
 ### About me
 
-- 🎓 **UC Berkeley MIDS** (Master of Information and Data Science), GPA 3.97
-- 🛠️ **2+ years of production ML engineering**, with a backend and full-stack foundation on AWS
-- 🔍 **Focus:** RAG and hybrid retrieval, tool-calling LLM agents, evaluation, and deploying ML services that stay reliable after launch
-- 🧭 **How I work:** keep the model out of anything that must be exactly right. Retrieval grounds answers, deterministic code does the math and the decisions, and tests cover both.
+-  **UC Berkeley MIDS** (Master of Information and Data Science), GPA 3.97
+-  **2+ years of production ML engineering**, with a backend and full-stack foundation on AWS
+-  **Focus:** RAG and hybrid retrieval, tool-calling LLM agents, evaluation, and deploying ML services that stay reliable after launch
+-  **How I work:** keep the model out of anything that must be exactly right. Retrieval grounds answers, deterministic code does the math and the decisions, and tests cover both.
 
 ---
 
