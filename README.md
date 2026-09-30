@@ -1,22 +1,4 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Ali%20Fardaev&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20MLOps&descSize=18&descAlignY=60" alt="Ali Fardaev" />
-</p>
-
-<p align="center">
-  <b>AI/ML Engineer · UC Berkeley MIDS · San Francisco Bay Area</b><br/>
-  I build LLM agents, retrieval systems, and the production infrastructure that keeps them correct, tested, and deployed.
-</p>
-
-<p align="center">
-  <a href="https://alifa.dev"><img src="https://img.shields.io/badge/Portfolio-alifa.dev-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ali-fardaev"><img src="https://img.shields.io/badge/LinkedIn-ali--fardaev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:fardaevali@gmail.com"><img src="https://img.shields.io/badge/Email-fardaevali%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  ML Engineer · AI/LLM Engineer · MLOps Engineer · Data Scientist — full-time, Bay Area or remote
-</p>
+<!-- Header --><p align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Ali%20Fardaev&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20San%20Francisco&descSize=18&descAlignY=60" alt="Ali Fardaev" /></p> <p align="center">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=2C9CDB&center=true&vCenter=true&width=620&lines=Building+RAG+and+LLM+systems+that+run+in+production;Retrieval+%C2%B7+Agents+%C2%B7+Backend+%C2%B7+MLOps" alt="Typing intro" /></p> <p align="center">  <a href="https://alifa.dev"><img src="https://img.shields.io/badge/Portfolio-alifa.dev-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/ali-fardaev"><img src="https://img.shields.io/badge/LinkedIn-ali--fardaev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:fardaevali@gmail.com"><img src="https://img.shields.io/badge/Email-fardaevali%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
 
 ---
 
